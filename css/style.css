@@ -27,6 +27,7 @@ div.container a {
 }
 
 /* Border from Y to X  */
+
 div.borderYtoX a:before,
 div.borderYtoX a:after {
   position: absolute;
